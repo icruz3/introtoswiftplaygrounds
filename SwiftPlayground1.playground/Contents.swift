@@ -11,3 +11,13 @@ var mySecondVariable = "and look I added two strings together"
 var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
+
+var myNameVariable = "Isaac"
+
+var myComputerVariable = "03"
+
+var myProblemVariable = "No Mac"
+
+var combinedString = myNameVariable + myComputerVariable + myProblemVariable
+
+print(combinedString)
