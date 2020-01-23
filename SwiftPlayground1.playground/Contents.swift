@@ -28,3 +28,14 @@ var appState = false
 print(appState)
 
 
+var numberOne = 5
+var numberTwo = 7
+
+var comparison = numberOne < numberTwo
+
+var firstOne = "same"
+var secondOne = "same"
+
+var comparisonTwo = ( firstOne == secondOne)
+
+
