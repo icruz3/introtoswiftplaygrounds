@@ -21,3 +21,10 @@ var myProblemVariable = "No Mac"
 var combinedString = myNameVariable + myComputerVariable + myProblemVariable
 
 print(combinedString)
+
+// Assignment #2 True or Faults
+
+var appState = false
+print(appState)
+
+
